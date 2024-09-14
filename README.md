@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Linguagens e ferramentas que utilizo atualmente:</p>
+<h2 align="left">Linguagens e ferramentas que utilizo atualmente:</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Estudando no momento:</p>
+<h2 align="left">Estudando no momento:</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">Como me encontrar:</p>
+<h2 align="left">Como me encontrar:</h2>
 
 ###
 
