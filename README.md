@@ -1,18 +1,15 @@
-<img align="right" height="150" src="https://media.giphy.com/media/LViPJi92JjYzkBmIkX/giphy.gif?cid=790b761183nwgeoqajs7221hdroadoz4h523wyvdan8uxns2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<h2 align="left">Olá 👋! Sou o João Augusto<br><br>Tenho experiencia com codigos em C++, Python e SQl<br><br>No momento estou estudando as bibliotecas Pandas e Numpy para aprimorar meus conhecimentos em Machine Learning</h2>
+<h2 align="left">Olá 👋! Sou o João Augusto<br><br>Tenho experiencia com codigos em C++, Python e SQl<br><br>No momento estou estudando as bibliotecas Keras e Numpy para aprimorar meus conhecimentos em Machine Learning</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenma2010&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+
 
 ###
 
-<h2 align="left">Linguagens e ferramentas que utilizo atualmente:</h2>
+<h2 align="left">Linguagens e ferramentas que já utilizei:</h2>
 
 ###
 
@@ -32,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -47,8 +46,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
