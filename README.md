@@ -1,7 +1,8 @@
 
 ###
 
-<h2 align="left">Olá 👋! Sou o João Augusto<br><br>Tenho experiencia com codigos em C++, Python e SQl<br><br>No momento estou estudando as bibliotecas Keras e Numpy para aprimorar meus conhecimentos em Machine Learning</h2>
+<h2 align="left">Olá 👋! Sou o João Augusto<br><br>Tenho experiencia com codigos em C++, Python e SQl<br><br>Desenvolvedor Full Stack na Lembry (CEIA/UFG) com experiência no ciclo completo de entrega de software — da especificação de requisitos e APIs — atuando como ponte entre times de desenvolvimento e gestão.
+Paralelamente, pesquiso algoritmos de Machine Learning em Python focados na extração de features em séries temporais para o diagnóstico preditivo da Doença de esclerose amiotrófica lateral a partir de dados de marcha
 
 ###
 
